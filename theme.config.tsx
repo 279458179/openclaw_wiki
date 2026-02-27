@@ -10,6 +10,11 @@ const config: DocsThemeConfig = {
   footer: {
     text: 'OpenClaw Wiki',
   },
+  useNextSeoProps() {
+    return {
+      titleTemplate: '%s – OpenClaw Wiki'
+    }
+  }
 }
 
 export default config
