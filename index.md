@@ -10,7 +10,7 @@ hero:
       link: /getting-started
     - theme: alt
       text: View on GitHub
-      link: https://github.com/your-github-username/openclaw_wiki
+      link: https://github.com/279458179/openclaw_wiki
 features:
   - title: Simple and Fast
     details: Built with VitePress, a lightning-fast static site generator.
