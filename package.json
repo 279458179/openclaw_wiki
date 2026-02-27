@@ -1,0 +1,22 @@
+{
+  "name": "openclaw_wiki",
+  "version": "1.0.0",
+  "description": "A wiki for OpenClaw.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "keywords": [
+    "openclaw",
+    "wiki"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.2.2",
+    "vue": "^3.4.27"
+  }
+}
