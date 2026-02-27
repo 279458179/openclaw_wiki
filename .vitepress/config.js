@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  srcDir: './docs',
   title: "OpenClaw Wiki",
   description: "A wiki for OpenClaw technical points.",
   themeConfig: {
